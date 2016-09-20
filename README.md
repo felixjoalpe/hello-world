@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-Noodles, noodels everywhere!!!
+Noodles, noodles everywhere!!!
